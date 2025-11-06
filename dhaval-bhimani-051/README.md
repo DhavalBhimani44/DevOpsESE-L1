@@ -20,7 +20,7 @@ Below are the images showing different parts of the project setup and pipeline e
 ![Jenkins Pipeline](./images/jenkins.png)
 
 ### ☸️ Kubernetes Pods
-![Kubernetes Pods](./images/k8s pods.png)
+![Kubernetes Pods](./images/k8s-pods.png)
 
 ## Task 7 Details
 
