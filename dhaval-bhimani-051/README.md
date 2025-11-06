@@ -1,4 +1,4 @@
-# DevOps End Semester Examination Lab-1
+# DevOps End Semester Examination Lab
 
 This project demonstrates a basic DevOps pipeline using Docker, Kubernetes, and Jenkins. It includes a simple Python application with containerization and Kubernetes deployment configurations for both development and production environments.
 
